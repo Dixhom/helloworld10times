@@ -1,0 +1,18 @@
+{
+    "contents" : "\\name{hello}\n\\alias{HelloWorld}\n%- Also NEED an '\\alias' for EACH other topic documented here.\n\\title{\n%%  ~~function to do ... ~~\nhello\n}\n\\description{\n%%  ~~ A concise (1-5 lines) description of what the function does. ~~\nIt prints \"Hello world!\" ten times. That's all.\n}\n\\usage{\nhello()\n}\n%- maybe also 'usage' for other objects documented here.\n\\arguments{\n  \\item{No argument}{\n%%     ~~Describe \\code{x} here~~\nNo argument for this function.\n}\n}\n\\details{\n%%  ~~ If necessary, more details than the description above ~~\nAgain, it prints \"Hello world!\" ten times. That's all.\n}\n\\value{\n%%  ~Describe the value returned\n%%  If it is a LIST, use\n%%  \\item{comp1 }{Description of 'comp1'}\n%%  \\item{comp2 }{Description of 'comp2'}\n%% ...\n}\n\\references{\n%% ~put references to the literature/web site here ~\n[1] www.dummyurl.com\n}\n\\author{\n%%  ~~who you are~~\nJohn Doe\n}\n\\note{\n%%  ~~further notes~~\nThis is the note.\n}\n\n%% ~Make other sections like Warning with \\section{Warning }{....} ~\n\n\\seealso{\n%% ~~objects to See Also as \\code{\\link{help}}, ~~~\n}\n\\examples{\n# prints \"Hello world\" ten times\nhello()\n% Add one or more standard keywords, see file 'KEYWORDS' in the\n% R documentation directory.\n\\keyword{ keyword1 }\n\\keyword{ keyword2 }\n\\keyword{ keyword3 }\n}\n\n",
+    "created" : 1452772919204.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "690739660",
+    "id" : "B19D770",
+    "lastKnownWriteTime" : 1452773826,
+    "path" : "D:/workspace/R/newRpackage_helloworld/HelloWorld/man/hello.Rd",
+    "project_path" : "man/hello.Rd",
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 3,
+    "source_on_save" : true,
+    "type" : "r_doc"
+}

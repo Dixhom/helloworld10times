@@ -1,0 +1,17 @@
+{
+    "contents" : "# Hello, world!\n#\n# This is an example function named 'hello'\n# which prints 'Hello, world!'.\n#\n# You can learn more about package authoring with RStudio at:\n#\n#   http://r-pkgs.had.co.nz/\n#\n# Some useful keyboard shortcuts for package authoring:\n#\n#   Build and Reload Package:  'Ctrl + Shift + B'\n#   Check Package:             'Ctrl + Shift + E'\n#   Test Package:              'Ctrl + Shift + T'\n\nhello <- function() {\n  for(i in 1:10){\n    print(\"Hello, world!\")\n  }\n}\n",
+    "created" : 1452767819553.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1662140905",
+    "id" : "7F746A17",
+    "lastKnownWriteTime" : 1452769429,
+    "path" : "D:/workspace/R/newRpackage_helloworld/HelloWorld/R/hello.R",
+    "project_path" : "R/hello.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
